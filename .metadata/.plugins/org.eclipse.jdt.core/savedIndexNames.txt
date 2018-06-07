@@ -1,0 +1,16 @@
+INDEX VERSION 1.130+C:\Users\prinz\OneDrive\Documents\ExampleTest\.metadata\.plugins\org.eclipse.jdt.core
+4156979385.index
+3172911841.index
+3427916741.index
+2667861753.index
+1240339312.index
+1305074058.index
+101897435.index
+367322634.index
+1774434123.index
+1584026735.index
+620103933.index
+1903263537.index
+3788143258.index
+1382033083.index
+1237744517.index
